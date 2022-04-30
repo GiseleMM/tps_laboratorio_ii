@@ -36,7 +36,7 @@ namespace Entidades
         {
             get
             {
-                //return this.Tamanio;
+                
                 return ETamanio.Mediano;
             }
         }
@@ -45,18 +45,13 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
 
-            //sb.AppendLine("SEDAN");
-            //sb.AppendLine(this);
-            //sb.AppendLine("TAMAÑO : {0}", this.Tamanio);
-            //sb.AppendLine("TIPO : " + this.tipo);
-            //sb.AppendLine("");
-            //sb.AppendLine("---------------------");
+         
 
-            //return sb;
+          
             sb.AppendLine("SEDAN");
             sb.Append(base.Mostrar());
-            sb.AppendLine($"TAMAÑO : {this.Tamanio.ToString()}");
-            sb.AppendLine($"TIPO : {this.tipo.ToString()}");
+            sb.Append($"TAMAÑO : {this.Tamanio.ToString()}");
+            sb.AppendLine($" TIPO : {this.tipo.ToString()}");
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 

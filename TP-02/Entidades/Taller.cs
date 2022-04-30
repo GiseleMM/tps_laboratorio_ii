@@ -15,7 +15,7 @@ namespace Entidades
         int espacioDisponible;
         public enum ETipo
         {
-            //Moto, Automovil, Camioneta, Todos
+            
             Ciclomotor,Sedan,SUV,Todos
         }
 
@@ -24,7 +24,7 @@ namespace Entidades
         {
             this.vehiculos = new List<Vehiculo>();
         }
-        //public Taller(int espacioDisponible)
+      
         public Taller (int espacioDisponible): this( )
         {
             this.espacioDisponible = espacioDisponible;
@@ -38,7 +38,7 @@ namespace Entidades
         /// <returns></returns>
         public override string ToString()
         {
-            //return Taller.Listar(this,ETipo.Todos);
+            
             return   Taller.Listar(this, ETipo.Todos);
         }
         #endregion
@@ -60,38 +60,34 @@ namespace Entidades
             sb.AppendLine("");
             foreach (Vehiculo v in taller.vehiculos)
             {
-                if(v is Ciclomotor && (tipoParaMostrar.ToString() == "Ciclomotor"))
+
+                switch (tipoParaMostrar)
                 {
-                    sb.AppendLine(v.Mostrar());
+
+                    case ETipo.Ciclomotor:
+                        if (v is Ciclomotor)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
+                        break;
+                    case ETipo.SUV:
+                        if (v is Suv)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
+
+                        break;
+                    case ETipo.Sedan:
+                        if (v is Sedan)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
+                        break;
+                    default:
+                        sb.AppendLine(v.Mostrar());
+                        break;
 
                 }
-                if(v is Suv && (tipoParaMostrar.ToString() == "SUV"))
-                {
-                    sb.AppendLine(v.Mostrar());
-                }
-                if(v is Sedan && (tipoParaMostrar.ToString()== "Sedan"))
-                {
-                    sb.AppendLine(v.Mostrar());
-                }
-                if(tipoParaMostrar.ToString() == "Todos")
-                {
-                    sb.AppendLine(v.Mostrar());
-                }
-              
-                    //case ETipo.Camioneta:
-                    //    sb.AppendLine(v.Mostrar());
-                    //    break;
-                    //case ETipo.Moto:
-                    //    sb.AppendLine(v.Mostrar());
-                    //    break;
-                    //case ETipo.Automovil:
-                    //    sb.AppendLine(v.Mostrar());
-                    //    break;
-                    //default:
-                    //    sb.AppendLine(v.Mostrar());
-                    //    break;
-
-                   
 
                 
             }
@@ -109,7 +105,7 @@ namespace Entidades
         /// <returns></returns>
         public static Taller operator +(Taller taller, Vehiculo vehiculo)
         {
-            //foreach (Vehiculo v in taller)
+           
             foreach (Vehiculo v in taller.vehiculos)
             {
                 if (v == vehiculo || taller.vehiculos.Count == taller.espacioDisponible)
@@ -127,7 +123,7 @@ namespace Entidades
         /// <returns></returns>
         public static Taller operator -(Taller taller, Vehiculo vehiculo)
         {
-            //foreach (Vehiculo v in taller)
+            
             foreach (Vehiculo v in taller.vehiculos)
             {
                 if (v == vehiculo)
