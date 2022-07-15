@@ -1,0 +1,50 @@
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\GMAdopcion.exe
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\GMAdopcion.deps.json
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\GMAdopcion.runtimeconfig.json
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\GMAdopcion.runtimeconfig.dev.json
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\GMAdopcion.dll
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\ref\GMAdopcion.dll
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\GMAdopcion.pdb
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.csproj.AssemblyReference.cache
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.FrmInicio.resources
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.csproj.GenerateResource.cache
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.AssemblyInfoInputs.cache
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.AssemblyInfo.cs
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.csproj.CoreCompileInputs.cache
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.dll
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\ref\GMAdopcion.dll
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.pdb
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.genruntimeconfig.cache
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\listaAdoptantes.json
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\listaPerros.json
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.csproj.CopyComplete
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.FrmAltaPerro.resources
+C:\Users\RCA\source\repos\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.FrmAltaAdoptante.resources
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\GMAdopcion.exe
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\listaAdoptantes.json
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\listaPerros.json
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\GMAdopcion.deps.json
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\GMAdopcion.runtimeconfig.json
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\GMAdopcion.runtimeconfig.dev.json
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\GMAdopcion.dll
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\ref\GMAdopcion.dll
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\GMAdopcion.pdb
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.csproj.AssemblyReference.cache
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.FrmAltaAdoptante.resources
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.FrmAltaPerro.resources
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.FrmInicio.resources
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.csproj.GenerateResource.cache
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.AssemblyInfoInputs.cache
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.AssemblyInfo.cs
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.csproj.CoreCompileInputs.cache
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.csproj.CopyComplete
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.dll
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\ref\GMAdopcion.dll
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.pdb
+C:\Users\RCA\Downloads\pARA RECU\TP-3\Medina.Gisele.2A.TPFinal\GMAdopcion\obj\Debug\net5.0-windows\GMAdopcion.genruntimeconfig.cache

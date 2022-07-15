@@ -1,0 +1,191 @@
+[
+  {
+    "Nombre": "Blue",
+    "Edad": 2,
+    "Refugio": "Refugio Sur",
+    "Id": 0,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Rocky",
+    "Edad": 7,
+    "Refugio": "San Francisco de Asis",
+    "Id": 1,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Luna",
+    "Edad": 7,
+    "Refugio": "San Francisco de Asis",
+    "Id": 2,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Lebron",
+    "Edad": 3,
+    "Refugio": "San Francisco de Asis",
+    "Id": 3,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Isidoro",
+    "Edad": 2,
+    "Refugio": "Refugio Sur",
+    "Id": 4,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Rocky",
+    "Edad": 10,
+    "Refugio": "Refugio Sur",
+    "Id": 5,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Igor",
+    "Edad": 5,
+    "Refugio": "Refugio Sur",
+    "Id": 6,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Bombona",
+    "Edad": 5,
+    "Refugio": "Naricitas frias",
+    "Id": 7,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Andre",
+    "Edad": 1,
+    "Refugio": "Naricitas frias",
+    "Id": 8,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Bichi",
+    "Edad": 3,
+    "Refugio": "Naricitas frias",
+    "Id": 9,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Lucky",
+    "Edad": 7,
+    "Refugio": "San Francisco de Asis",
+    "Id": 10,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Osito",
+    "Edad": 7,
+    "Refugio": "San Francisco de Asis",
+    "Id": 11,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Princesa",
+    "Edad": 2,
+    "Refugio": "San Francisco de Asis",
+    "Id": 12,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Oreo",
+    "Edad": 1,
+    "Refugio": "San Francisco de Asis",
+    "Id": 13,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Elvis",
+    "Edad": 5,
+    "Refugio": "Refugio Sur",
+    "Id": 14,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Balto",
+    "Edad": 5,
+    "Refugio": "Refugio Sur",
+    "Id": 15,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Pluto",
+    "Edad": 3,
+    "Refugio": "Refugio Sur",
+    "Id": 16,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Max",
+    "Edad": 3,
+    "Refugio": "Refugio Sur",
+    "Id": 17,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Leo",
+    "Edad": 9,
+    "Refugio": "San Francisco de Asis",
+    "Id": 18,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Simba",
+    "Edad": 8,
+    "Refugio": "San Francisco de Asis",
+    "Id": 19,
+    "ParaAdopcion": true
+  },
+  {
+    "Nombre": "Coco",
+    "Edad": 10,
+    "Refugio": "San Francisco de Asis",
+    "Id": 20,
+    "ParaAdopcion": false
+  },
+  {
+    "Nombre": "Thor",
+    "Edad": 10,
+    "Refugio": "Naricitas frias",
+    "Id": 21,
+    "ParaAdopcion": false
+  },
+  {
+    "Nombre": "Nene",
+    "Edad": 4,
+    "Refugio": "Naricitas frias",
+    "Id": 22,
+    "ParaAdopcion": false
+  },
+  {
+    "Nombre": "Tobi",
+    "Edad": 4,
+    "Refugio": "Naricitas frias",
+    "Id": 23,
+    "ParaAdopcion": false
+  },
+  {
+    "Nombre": "Beto",
+    "Edad": 2,
+    "Refugio": "Naricitas frias",
+    "Id": 24,
+    "ParaAdopcion": false
+  },
+  {
+    "Nombre": "Tupac",
+    "Edad": 1,
+    "Refugio": "Naricitas frias",
+    "Id": 25,
+    "ParaAdopcion": false
+  },
+  {
+    "Nombre": "Rocco",
+    "Edad": 8,
+    "Refugio": "Naricitas frias",
+    "Id": 26,
+    "ParaAdopcion": false
+  }
+]
