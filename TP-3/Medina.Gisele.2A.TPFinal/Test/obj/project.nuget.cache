@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rk/aZWRl5rq/8IMeXKyAM7qo0EDc6na6De7Ms/Euq7TkEEqIhM/fX8vrkqHpit54aO1QvkSt2VMQfPkiUKYHSA==",
+  "dgSpecHash": "Fo2zVf0d3YEz1m3MwFsJGed4SCweMTr4mC+ey1W1rM7W7a6DBiO3nBU544sJBvYaHI6y5d5Y/50I89mmMx57+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RCA\\Downloads\\pARA RECU\\TP-3\\Medina.Gisele.2A.TPFinal\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Users\\RCA\\Desktop\\LabTPS\\tps_laboratorio_ii\\TP-3\\Medina.Gisele.2A.TPFinal\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RCA\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\RCA\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
